@@ -1,0 +1,443 @@
+Blue
+Dwarka Sec 21
+Dwarka Sec 8
+2.5
+No
+
+Blue
+Dwarka Sec 8
+Dwarka Sec 9
+2
+No
+
+Blue
+Dwarka Sec 9
+Dwarka Sec 10
+2
+No
+
+Blue
+Dwarka Sec 10
+Dwarka Sec 11
+2
+No
+
+Blue
+Dwarka Sec 11
+Dwarka Sec 12
+2
+No
+
+Blue
+Dwarka Sec 12
+Dwarka Sec 13
+2
+No
+
+Blue
+Dwarka Sec 13
+Dwarka Sec 14
+2
+No
+
+Blue
+Dwarka Sec 14
+Dwarka
+2.5
+No
+
+Blue
+Dwarka
+Dwarka Mor
+2
+No
+
+Blue
+Dwarka Mor
+Nawada
+2
+No
+
+Blue
+Nawada
+Uttam Nagar West
+2
+No
+
+Blue
+Uttam Nagar West
+Uttam Nagar East
+2
+No
+
+Blue
+Uttam Nagar East
+Janakpuri West
+2
+Yes
+
+Blue
+Janakpuri West
+Janakpuri East
+2
+Yes
+
+Blue
+Janakpuri East
+Tilak Nagar
+2
+No
+
+Blue
+Tilak Nagar
+Subhash Nagar
+1.5
+No
+
+Blue
+Subhash Nagar
+Tagore Garden
+2
+No
+
+Blue
+Tagore Garden
+Rajouri Garden
+2
+No
+
+Blue
+Rajouri Garden
+Ramesh Nagar
+1.5
+No
+
+Blue
+Ramesh Nagar
+Moti Nagar
+1.5
+No
+
+Blue
+Moti Nagar
+Kirti Nagar
+2
+No
+
+Blue
+Kirti Nagar
+Shadipur
+1.5
+No
+
+Blue
+Shadipur
+Patel Nagar
+2
+No
+
+Blue
+Patel Nagar
+Rajendra Place
+1.5
+No
+
+Blue
+Rajendra Place
+Karol Bagh
+1.5
+No
+
+Blue
+Karol Bagh
+Jhandewalan
+2
+No
+
+Blue
+Jhandewalan
+R.K. Ashram Marg
+1.5
+No
+
+Blue
+R.K. Ashram Marg
+Rajiv Chowk
+2
+No
+
+Blue
+Rajiv Chowk
+Barakhamba Road
+1.5
+No
+
+Blue
+Barakhamba Road
+Mandi House
+1.5
+No
+
+Blue
+Mandi House
+Supreme Court
+1.5
+No
+
+Blue
+Supreme Court
+Indraprastha
+2
+No
+
+Blue
+Indraprastha
+Yamuna Bank
+3.5
+No
+
+Blue
+Yamuna Bank
+Akshardham
+3
+No
+
+Blue
+Akshardham
+Mayur Vihar-I
+2
+No
+
+Blue
+Mayur Vihar-I
+Mayur Vihar Ext.
+2
+No
+
+Blue
+Mayur Vihar Ext.
+New Ashok Nagar
+2
+No
+
+Blue
+New Ashok Nagar
+Noida Sec 15
+3
+No
+
+Blue
+Noida Sec 15
+Noida Sec 16
+2
+No
+
+Blue
+Noida Sec 16
+Noida Sec 18
+2
+No
+
+Blue
+Noida Sec 18
+Botanical Garden
+2
+Yes
+
+Blue
+Botanical Garden
+Golf Course
+3
+Yes
+
+Blue
+Golf Course
+Noida City Centre
+2.5
+No
+
+Blue
+Noida City Centre
+Noida Sec 34
+2.5
+No
+
+Blue
+Noida Sec 34
+Noida Sec 52
+2
+No
+
+Blue
+Noida Sec 52
+Noida Sec 61
+2
+No
+
+Blue
+Noida Sec 61
+Noida Sec 59
+2
+No
+
+Blue
+Noida Sec 59
+Noida Sec 62
+2
+No
+
+Blue
+Noida Sec 62
+Noida Electronic City
+2
+No
+
+Magenta
+Krishna Park Extension
+Janakpuri West
+1.5
+No
+
+Magenta
+Janakpuri West
+Dabri Mor - Janakpuri South
+2.5
+Yes
+
+Magenta
+Dabri Mor - Janakpuri South
+Dashrathpuri
+2
+No
+
+Magenta
+Dashrathpuri
+Palam
+2.5
+No
+
+Magenta
+Palam
+Sadar Bazar Cantonment
+3
+No
+
+Magenta
+Sadar Bazar Cantonment
+Terminal 1-IGI Airport
+2.5
+No
+
+Magenta
+Terminal 1-IGI Airport
+Shankar Vihar
+3
+No
+
+Magenta
+Shankar Vihar
+Vasant Vihar
+2.5
+No
+
+Magenta
+Vasant Vihar
+Munirka
+2
+No
+
+Magenta
+Munirka
+R. K. Puram
+2
+No
+
+Magenta
+R. K. Puram
+IIT Delhi
+1.5
+No
+
+Magenta
+IIT Delhi
+Hauz Khas
+2
+No
+
+Magenta
+Hauz Khas
+Panchsheel Park
+2
+No
+
+Magenta
+Panchsheel Park
+Chirag Delhi
+1.5
+No
+
+Magenta
+Chirag Delhi
+Greater Kailash
+1.5
+No
+
+Magenta
+Greater Kailash
+Nehru Enclave
+2
+No
+
+Magenta
+Nehru Enclave
+Kalkaji Mandir
+1.5
+No
+
+Magenta
+Kalkaji Mandir
+Okhla NSIC
+1.5
+No
+
+Magenta
+Okhla NSIC
+Sukhdev Vihar
+2
+No
+
+Magenta
+Sukhdev Vihar
+Jamia Millia Islamia
+2
+No
+
+Magenta
+Jamia Millia Islamia
+Okhla Vihar
+1.5
+No
+
+Magenta
+Okhla Vihar
+Jasola Vihar Shaheen Bagh
+2.5
+No
+
+Magenta
+Jasola Vihar Shaheen Bagh
+Kalindi Kunj
+2
+No
+
+Magenta
+Kalindi Kunj
+Okhla Bird Sanctuary
+2.5
+No
+
+Magenta
+Okhla Bird Sanctuary
+Botanical Garden
+2
+Yes
